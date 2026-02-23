@@ -4,6 +4,7 @@ Modified scripts to show Pi-Hole data on an Argon ONE V5 case equipped with the 
 I'm not great at creating github repositories, but I will give it a go. Here are the steps you need to follow to have your Argon ONE V5 OLED screen display pi-hole data.
 
 Step 1: Download and install the original Argon OLED control script by executing the following command:
+
 curl https://download.argon40.com/argon1v5.sh | bash
 
 Step 2: After the installation move bgblank.bin and piholelogo.bin to the folder /etc/argon/oled
